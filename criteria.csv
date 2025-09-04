@@ -1,0 +1,17 @@
+criteria_id,type,min_value,max_value,description
+AGE_0_80,age,0,80,Age 0-80 years
+AGE_20_80,age,20,80,Age 20-80 years
+AGE_20_55,age,20,55,Age 20-55 years
+AGE_0_75,age,0,75,Age 0-75 years
+AGE_15_60,age,15,60,Age 15-60 years
+AGE_0_70,age,0,70,Age 0-70 years
+AGE_0_65,age,0,65,Age 0-65 years
+AGE_0_14,age,0,14,Age 0-14 years child
+AGE_15_70,age,15,70,Age 15-70 years
+INCOME_LOW,income,10000,30000,Low income bracket
+INCOME_MID,income,30001,80000,Middle income bracket
+INCOME_HIGH,income,80001,200000,High income bracket
+INCOME_PREMIUM,income,200001,999999,Premium income bracket
+HEALTH_GOOD,health,80,100,Good health status
+HEALTH_FAIR,health,60,79,Fair health status
+HEALTH_POOR,health,0,59,Poor health status

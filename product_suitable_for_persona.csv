@@ -1,0 +1,42 @@
+product_id,persona_id,suitability_score,priority,reason1,reason2
+AIA_HEALTH_HAPPY,P01,95,1,ตรงกับความต้องการ Health IPD สูง,เหมาะกับงบประมาณ
+AIA_CI_PLUS,P01,85,2,ป้องกันโรคร้ายแรง,มี family history NCDs
+BLA_PROTECTION,P01,75,3,Life coverage พื้นฐาน,เบี้ยไม่แพง
+AIA_SAVE_PLUS,P02,90,1,เก็บเงินสำหรับการศึกษาลูก,มีเงินคืนระหว่างทาง
+BLA_15_10_KID,P02,85,2,ประกันสำหรับลูก,คุ้มครอง CI สำหรับเด็ก
+AIA_HEALTH_SAVE,P03,80,1,Health + Savings รวมกัน,เหมาะกับผู้สูงอายุ
+BLA_SIMPLE,P03,75,2,เบี้ยไม่แพง,ง่ายไม่ซับซ้อน
+AIA_UL,P04,95,1,ยืดหยุ่นตามรายได้,ใช้เป็นหลักประกันกู้ได้
+BLA_PROTECTION,P04,85,2,Life coverage สูง,คุ้มครองอุบัติเหตุ
+BLA_15_10_KID,P05,90,1,ประกันเด็กเบี้ยไม่แพง,Premium waiver ถ้าผู้ปกครองเสียชีวิต
+BLA_SIMPLE,P05,80,2,เบี้ยถูก,ครอบคลุมพื้นฐาน
+BLA_SIMPLE,P06,85,1,เริ่มต้นง่าย,เบี้ยไม่แพง
+AIA_SMART_SAVE,P06,80,2,ฝึกวินัยการออม,มีเงินคืนระหว่างทาง
+AIA_SMART_RETIRE,P07,95,1,วางแผนเกษียณ,รายได้ประจำหลังเกษียณ
+BLA_810,P07,85,2,ผลตอบแทนสูง,ระยะยาว 15 ปี
+AIA_IPA,P08,95,1,PA coverage สูง,เหมาะกับอาชีพเสี่ยง
+AIA_HEALTH_SAVE,P08,80,2,Health พื้นฐาน,มีการออมด้วย
+BLA_810,P09,90,1,ผลตอบแทนสูง 810%,สร้างมรดกให้ลูก
+AIA_789,P09,85,2,เงินคืนรายปี,คุ้มครองถึงอายุ 89
+AIA_HEALTH_HAPPY,P10,95,1,International standard,ครอบครัวใช้ได้
+AIA_SAVE_PLUS,P10,85,2,Education fund สำหรับลูก,ยืดหยุ่น
+AIA_HEALTH_HAPPY,P11,90,1,ครอบคลุมพ่อแม่สูงอายุ,วงเงินสูง
+BLA_650,P11,80,2,ออมระยะกลาง,ผลตอบแทนดี
+AIA_UL,P12,85,1,ยืดหยุ่นสูง,เหมาะ Digital Nomad
+BLA_424,P12,80,2,ระยะสั้น 12 ปี,ผลตอบแทนดี
+AIA_SMART_RETIRE,P13,95,1,เกษียณสบาย,เหมาะหมอรายได้สูง
+BLA_810,P13,85,2,ผลตอบแทนสูงสุด,ระยะยาว
+BLA_ESAVE,P14,85,1,เบี้ยถูก online,เหมาะรายได้ไม่คงที่
+BLA_PROTECTION,P14,80,2,Life coverage พื้นฐาน,คุ้มครองอุบัติเหตุ
+AIA_HEALTH_HAPPY,P15,85,1,Health สำหรับวัยเริ่มทำงาน,OPD ด้วย
+BLA_SIMPLE,P15,80,2,เบี้ยถูก,เริ่มต้นง่าย
+AIA_HEALTH_SAVE,P16,75,1,Health สำหรับผู้สูงอายุ,ยังรับผู้มีโรค
+BLA_SIMPLE,P16,70,2,เบี้ยไม่แพง,ไม่ต้องตรวจสุขภาพมาก
+BLA_ESAVE,P17,90,1,First jobber เบี้ยถูก,ออม online ง่าย
+AIA_SMART_SAVE,P17,85,2,สร้างวินัยออม,เงินคืนระหว่างทาง
+AIA_HEALTH_HAPPY,P18,95,1,คู่รักใช้ร่วมกัน,ครอบคลุมสูง
+AIA_UL,P18,85,2,ยืดหยุ่นตาม startup income,ลงทุนด้วย
+AIA_CI_PLUS,P19,95,1,CI coverage สูง 5M,ตรง pain point หมอ
+AIA_HEALTH_HAPPY,P19,90,2,IPD 10M+,รพ.เอกชนชั้นนำ
+AIA_IPA,P20,90,1,PA สำหรับคนชอบเที่ยว,ทุนสูง
+BLA_ESAVE,P20,85,2,ออมเล็กๆ online,เบี้ยไม่แพง

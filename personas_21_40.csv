@@ -1,0 +1,21 @@
+persona_id,name,age,gender,occupation,income_min,income_max,marital_status,has_children,location,risk_profile,health_status,priority_need
+P21,ผู้บริหารวัย 50 วางแผนเกษียณ,50,M,Sales Executive,150000,200000,Married,true,Bangkok,Medium,Fair,retirement
+P22,คุณแม่ตั้งครรภ์,29,F,HR Specialist,42000,42000,Married,true,Bangkok,High,Good,child_health
+P23,ฟรีแลนซ์สายไอที,34,M,Freelance Programmer,80000,150000,Single,false,Bangkok,Medium,Fair,health_high
+P24,พนักงานโรงงานต่างจังหวัด,30,M,Factory Worker,18000,20000,Married,true,Rayong,High,Good,basic_life
+P25,ผู้หญิงวัยทองโสด,45,F,Bank Manager,80000,80000,Single,false,Bangkok,Low,Fair,retirement_health
+P26,หนุ่มโรงงานเสี่ยงอุบัติเหตุ,25,M,Production Worker,17000,20000,Single,false,Samut Prakan,High,Good,accident
+P27,ข้าราชการเกษียณใหม่,60,M,Retired Civil Servant,30000,30000,Married,true,Khon Kaen,Low,Fair,health_income
+P28,อาจารย์มหาลัย,40,F,University Lecturer,50000,60000,Married,true,Chiang Mai,Low,Good,education_fund
+P29,พนักงานสายการบิน,31,M,Cabin Crew,60000,70000,Single,false,Bangkok,High,Good,travel_accident
+P30,เจ้าของร้านอาหาร,38,M,Restaurant Owner,50000,100000,Married,true,Phuket,High,Fair,business_protect
+P31,นักการตลาดดิจิทัล,28,F,Digital Marketing Manager,45000,50000,Single,false,Bangkok,Medium,Good,investment_saving
+P32,ช่างซ่อมรถ,35,M,Auto Mechanic,25000,35000,Married,true,Nonthaburi,High,Fair,family_protect
+P33,คุณพ่อวัยรุ่น,27,M,Sales Representative,28000,28000,Married,true,Nonthaburi,High,Good,child_education
+P34,พยาบาลเอกชน,32,F,Private Nurse,35000,40000,Single,false,Bangkok,Medium,Good,health_saving
+P35,เจ้าของธุรกิจ SME หญิง,42,F,SME Owner,60000,150000,Married,true,Bangkok,Medium,Fair,business_continuity
+P36,วิศวกรโยธา,29,M,Civil Engineer,40000,45000,Married,false,Bangkok,Medium,Good,home_loan_protect
+P37,ทนายความอิสระ,36,M,Freelance Lawyer,70000,120000,Single,false,Bangkok,Low,Fair,professional_protect
+P38,ครูโรงเรียนเอกชน,33,F,Private School Teacher,28000,30000,Married,true,Bangkok,Medium,Good,family_education
+P39,นักลงทุนอิสระ,44,M,Independent Investor,100000,300000,Married,true,Bangkok,Low,Fair,wealth_legacy
+P40,แม่บ้านมีรายได้เสริม,37,F,Housewife with Side Business,15000,25000,Married,true,Chonburi,High,Good,family_basic

@@ -1,0 +1,17 @@
+coverage_id,type,min_amount,max_amount,unit,description
+LIFE_BASIC,life,100000,2000000,baht,Basic life coverage
+LIFE_STANDARD,life,2000001,10000000,baht,Standard life coverage
+LIFE_HIGH,life,10000001,50000000,baht,High life coverage
+IPD_BASIC,health_ipd,500000,1000000,baht_per_year,Basic hospitalization
+IPD_STANDARD,health_ipd,1000001,5000000,baht_per_year,Standard hospitalization
+IPD_PREMIUM,health_ipd,5000001,40000000,baht_per_year,Premium hospitalization
+OPD_BASIC,health_opd,1000,1500,baht_per_visit,Basic outpatient
+OPD_STANDARD,health_opd,1501,3000,baht_per_visit,Standard outpatient
+CI_BASIC,critical_illness,100000,500000,baht,Basic CI coverage
+CI_STANDARD,critical_illness,500001,2000000,baht,Standard CI coverage
+CI_HIGH,critical_illness,2000001,5000000,baht,High CI coverage
+PA_BASIC,personal_accident,500000,2000000,baht,Basic accident coverage
+PA_STANDARD,personal_accident,2000001,5000000,baht,Standard accident coverage
+PA_HIGH,personal_accident,5000001,10000000,baht,High accident coverage
+SAVINGS_SHORT,savings,100000,1000000,baht,Short term savings
+SAVINGS_LONG,savings,1000001,10000000,baht,Long term savings

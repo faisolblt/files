@@ -1,0 +1,21 @@
+persona_id,name,age,gender,occupation,income_min,income_max,marital_status,has_children,location,risk_profile,health_status,priority_need
+P01,พนักงานบริษัทสายเทค,28,M,Software Engineer,45000,70000,Single,false,Bangkok,Medium,Good,health_ipd
+P02,ครอบครัวมีบุตรเล็ก,35,M,Marketing Manager,60000,100000,Married,true,Bangkok,High,Good,education_fund
+P03,ผู้เกษียณอายุ,62,F,Retired Teacher,20000,30000,Married,true,Bangkok,Low,Fair,health_senior
+P04,เจ้าของกิจการ SME,42,M,Business Owner,80000,180000,Married,true,Chiang Mai,High,Fair,life_high
+P05,แม่เลี้ยงเดี่ยว,32,F,HR Officer,30000,35000,Divorced,true,Bangkok,High,Good,child_education
+P06,นักศึกษาใกล้จบ,22,M,Student,10000,12000,Single,false,Khon Kaen,Low,Good,starter_saving
+P07,ครอบครัวรายได้ 2 ทาง,40,M,Government Officer,80000,120000,Married,true,Nonthaburi,Medium,Good,retirement
+P08,เซลส์ต่างจังหวัด,38,M,Sales Representative,30000,35000,Married,true,Ubon,High,Fair,accident
+P09,Generation Wealth Transfer,55,M,Executive,150000,200000,Married,true,Bangkok,Low,Fair,wealth_transfer
+P10,Expat ทำงานในไทย,40,M,Project Manager,150000,150000,Married,true,Bangkok,Medium,Good,international_health
+P11,ครอบครัว Sandwich Generation,45,F,Bank Manager,70000,80000,Married,true,Bangkok,High,Fair,parents_care
+P12,Digital Nomad,30,M,Graphic Designer,40000,60000,Single,false,Phuket,Medium,Good,flexible_saving
+P13,คุณหมออิสระ,48,M,Clinic Owner,100000,300000,Married,true,Bangkok,Low,Fair,retirement_plus
+P14,แม่ค้าตลาด,44,F,Market Vendor,25000,30000,Married,true,Chonburi,High,Poor,basic_life
+P15,วัยรุ่นเริ่มทำงาน,25,F,Admin Officer,18000,20000,Single,false,Bangkok,Medium,Good,starter_health
+P16,ผู้สูงอายุมีโรคประจำตัว,68,M,Retired,15000,25000,Widowed,true,Bangkok,High,Poor,health_chronic
+P17,First Jobber,23,M,Engineer,25000,25000,Single,false,Bangkok,Low,Good,life_starter
+P18,ครอบครัวรุ่นใหม่,30,M,Startup Founder,50000,150000,Married,false,Bangkok,High,Good,couple_health
+P19,คุณหมอวัยทำงาน,39,M,Doctor,250000,250000,Married,true,Bangkok,High,Fair,ci_high
+P20,สาวออฟฟิศสายสังคม,27,F,PR Executive,38000,38000,Single,false,Bangkok,Medium,Good,travel_accident

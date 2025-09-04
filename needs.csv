@@ -1,0 +1,10 @@
+need_id,category,priority,description
+NEED_HEALTH,protection,5,Health protection needs
+NEED_LIFE,protection,4,Life insurance protection
+NEED_SAVINGS,savings,3,Savings and investment
+NEED_EDUCATION,education,5,Children education fund
+NEED_RETIREMENT,retirement,4,Retirement planning
+NEED_CI,protection,4,Critical illness protection
+NEED_PA,protection,3,Personal accident protection
+NEED_WEALTH,investment,3,Wealth accumulation
+NEED_LEGACY,investment,2,Legacy and inheritance

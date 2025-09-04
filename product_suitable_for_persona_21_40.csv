@@ -1,0 +1,61 @@
+product_id,persona_id,suitability_score,priority,reason1,reason2
+AIA_SMART_RETIRE,P21,95,1,วางแผนเกษียณ income guaranteed,เหมาะกับผู้บริหารวัย 50
+BLA_424,P21,85,2,สะสมทรัพย์ระยะสั้น,ผลตอบแทนสูง 424%
+AIA_CI_PLUS,P21,80,3,คุ้มครอง CI สูง,ตรงกับความเสี่ยง NCDs
+AIA_HEALTH_HAPPY,P22,90,1,Health สำหรับแม่และลูก,OPD/IPD ครอบคลุม
+BLA_15_10_KID,P22,95,2,Education plan สำหรับลูก,Premium waiver ถ้าแม่เสียชีวิต
+AIA_SAVE_PLUS,P22,80,3,ออม+คุ้มครอง,เหมาะครอบครัวใหม่
+AIA_HEALTH_HAPPY,P23,95,1,IPD สูง 5M+,เหมาะฟรีแลนซ์ไร้สวัสดิการ
+AIA_UL,P23,90,2,ลงทุนยืดหยุ่น,เหมาะรายได้ไม่คงที่
+AIA_CI_PLUS,P23,85,3,CI coverage สูง,ป้องกัน NCDs
+BLA_SIMPLE,P24,90,1,เบี้ยถูก เข้าใจง่าย,เหมาะรายได้จำกัด
+AIA_IPA,P24,85,2,PA coverage,เสี่ยงอุบัติเหตุการเดินทาง
+BLA_ESAVE,P24,75,3,ออมออนไลน์,เบี้ยไม่แพง
+AIA_SMART_RETIRE,P25,95,1,Retirement income,เหมาะผู้หญิงโสดวัยทอง
+AIA_HEALTH_SAVE,P25,85,2,Health+Savings,ครอบคลุมค่ารักษา
+BLA_650,P25,80,3,ออมระยะกลาง,ผลตอบแทน 650%
+AIA_IPA,P26,95,1,PA ทุนสูง,ตรง pain point โรงงาน
+BLA_PROTECTION,P26,85,2,Life+PA basic,คุ้มครองครอบครัว
+BLA_ESAVE,P26,75,3,ออมเล็กๆ online,เบี้ยถูก
+AIA_SMART_RETIRE,P27,90,1,รายได้เสริมหลังเกษียณ,Annuity ตลอดชีพ
+AIA_HEALTH_SAVE,P27,85,2,Health ผู้สูงอายุ,รับแม้มีโรคประจำตัว
+BLA_380,P27,80,3,เงินคืนรายปี,เสริมรายได้
+BLA_15_10_KID,P28,95,1,Education fund,เหมาะอาจารย์มีลูก
+AIA_SAVE_PLUS,P28,85,2,ออม+คุ้มครองครอบครัว,มีเงินคืนระหว่างทาง
+BLA_525,P28,80,3,ผลตอบแทนสูง 525%,ระยะกลาง 12 ปี
+AIA_IPA,P29,95,1,PA สายการบิน,คุ้มครองการเดินทาง
+AIA_HEALTH_HAPPY,P29,90,2,Health coverage ทั่วโลก,IPD สูง
+AIA_UL,P29,80,3,ลงทุน+คุ้มครอง,ยืดหยุ่น
+BLA_PROTECTION,P30,90,1,Life สูง+PA,คุ้มครองธุรกิจ
+AIA_CI_PLUS,P30,85,2,CI ครอบคลุม,ป้องกันหยุดธุรกิจ
+BLA_810,P30,80,3,สะสมทรัพย์ยาว,ผลตอบแทน 810%
+AIA_UL,P31,90,1,ลงทุนยืดหยุ่น,เหมาะนักการตลาด
+BLA_424,P31,85,2,ออมระยะสั้น,ผลตอบแทนดี
+AIA_HEALTH_HAPPY,P31,80,3,Health พื้นฐาน,IPD/OPD
+BLA_PROTECTION,P32,90,1,Life+PA,เหมาะช่างซ่อมรถ
+AIA_IPA,P32,85,2,PA ทุนสูง,อาชีพเสี่ยง
+BLA_SIMPLE,P32,80,3,เบี้ยถูก,คุ้มครองพื้นฐาน
+AIA_SAVE_PLUS,P33,95,1,Education fund,เหมาะพ่อวัยรุ่น
+BLA_15_10_KID,P33,90,2,ประกันเด็ก,มีเงินก้อนเรียนต่อ
+AIA_IPA,P33,80,3,PA coverage,เดินทางเจอลูกค้า
+AIA_HEALTH_HAPPY,P34,90,1,Health พยาบาล,เสริมสวัสดิการ
+AIA_SMART_SAVE,P34,85,2,ออมระยะยาว,มีเงินคืน
+BLA_380,P34,80,3,ออม+คุ้มครอง,เบี้ยไม่แพง
+AIA_UL,P35,95,1,Business protection,ยืดหยุ่นตามรายได้
+BLA_PROTECTION,P35,85,2,Life coverage สูง,หลักประกันธุรกิจ
+AIA_CI_PLUS,P35,80,3,CI protection,ป้องกันหยุดธุรกิจ
+BLA_525,P36,90,1,ออมซื้อบ้าน,ผลตอบแทน 525%
+AIA_SAVE_PLUS,P36,85,2,Life+Savings,คุ้มครองสินเชื่อ
+AIA_IPA,P36,75,3,PA วิศวกร,เสี่ยงอุบัติเหตุ
+AIA_CI_PLUS,P37,95,1,CI ทนายความ,Professional protection
+AIA_UL,P37,90,2,ลงทุนยืดหยุ่น,รายได้ไม่คงที่
+BLA_810,P37,80,3,สะสมทรัพย์ยาว,ผลตอบแทนสูง
+BLA_15_10_KID,P38,90,1,Education ลูก,เหมาะครูมีครอบครัว
+AIA_SAVE_PLUS,P38,85,2,ออม+คุ้มครอง,เบี้ยพอดีรายได้
+BLA_SIMPLE,P38,80,3,เบี้ยถูก,เข้าใจง่าย
+BLA_810,P39,95,1,Wealth accumulation,ผลตอบแทนสูงสุด
+AIA_789,P39,90,2,Legacy planning,คุ้มครองถึง 89 ปี
+AIA_CI_PLUS,P39,85,3,CI high coverage,ป้องกันความมั่งคั่ง
+BLA_SIMPLE,P40,90,1,เบี้ยถูกมาก,เหมาะแม่บ้าน
+BLA_ESAVE,P40,85,2,ออมออนไลน์,ง่ายสะดวก
+BLA_15_10_KID,P40,80,3,สำหรับลูก,Education fund
